@@ -3963,7 +3963,9 @@ li.feature-2 {
     -webkit-transition:.4s ease all;
     -moz-transition:.4s ease all;
     -o-transition:.4s ease all;
-    transition:.4s ease all
+    transition:.4s ease all;
+    /* 去掉头像栏 */
+    padding-top:20px;
 }
 .focusinfo img {
     width:130px;
